@@ -1,3 +1,3 @@
-module github.com/t-hg/uniqplot
+module github.com/tobiashort/uniqplot
 
 go 1.21.4
